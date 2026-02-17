@@ -8,7 +8,7 @@ const app = express();
 // ✅ Allowed Origins
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://myshopfront.netlify.app/"
+  "https://myshopfront.netlify.app"
 ];
 
 // ✅ Better CORS Handling
